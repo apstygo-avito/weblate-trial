@@ -10,3 +10,5 @@
 
 /* Comment for another string */
 "another_string" = "This is a different string";
+
+"third_string" = "Third string";
