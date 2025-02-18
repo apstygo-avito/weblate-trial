@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  weblate-trial
+
+  Created by Artem Pstygo on 18.02.2025.
+  
+*/
+
+"hello_world" = "Hello, world!";
