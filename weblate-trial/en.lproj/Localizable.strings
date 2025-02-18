@@ -7,3 +7,4 @@
 */
 
 "hello_world" = "Hello, world!";
+"another_string" = "This is a different string";
