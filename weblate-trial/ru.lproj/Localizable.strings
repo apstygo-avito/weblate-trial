@@ -7,5 +7,5 @@
 */
 
 "hello_world" = "(изменено) Привет, мир!";
-"another_string" = "";
+"another_string" = "Это другая строка";
 "third_string" = "Третья строка";
