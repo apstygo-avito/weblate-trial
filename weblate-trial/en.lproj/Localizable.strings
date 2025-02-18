@@ -7,4 +7,6 @@
 */
 
 "hello_world" = "Hello, world!";
+
+/* Comment for another string */
 "another_string" = "This is a different string";
